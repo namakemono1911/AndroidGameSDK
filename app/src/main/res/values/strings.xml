@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ueno_testapp</string>
+    <string name="hello">チーッス</string>
+    <string name="test_button">遷移テスト</string>
+    <string name="change_success">遷移成功</string>
+    <string name="back_button">戻る</string>
+    <string name="todo">TODO</string>
+    <string name="change_text">へんち〜ん</string>
+</resources>
